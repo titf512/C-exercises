@@ -2,10 +2,13 @@
 
 #include <iostream>
 using namespace std;
+
 int main() {
 	char letterSymbol;
-    cout << "Write a letter or symbol." << endl;
-    cin >> letterSymbol;
-    cout << int (letterSymbol);
-    return 0;
+	
+	cout << "Write a letter or symbol." << endl;
+	cin >> letterSymbol;
+	
+	cout << int (letterSymbol);
+	return 0;
 }

@@ -28,7 +28,7 @@ int main() {
     cout << a-mean << endl;
     cout << b-mean << endl;
     cout << c-mean << endl;
-    cout << 5/2.0;
+  
     return 0;
 }
 
